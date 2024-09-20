@@ -1,0 +1,11 @@
+.one-ul{
+    list-style-type: none;
+}
+.two-ul{
+    list-style-type: none;
+}
+.one-li>a{
+    color: black;
+    text-decoration: none;
+
+}
